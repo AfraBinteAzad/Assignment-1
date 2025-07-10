@@ -286,15 +286,15 @@ nav p{
     width: 1140px;
     height: 697px;
     background-color: #f9f9f9;
-    padding: 71px 150px;
+    padding: 71px 100px;
     margin: 150px;
     gap: 15px;
-    border-radius: 10px;
+    border-radius: 25px;
     box-shadow: 2px 3.5px 3.5px 2px rgb(217, 216, 216);
 }
 
 .card-container2:hover{
-    transform: scale(1.02);
+    transform: scale(1.05);
     transition: transform 0.3s ease;
 }
 
